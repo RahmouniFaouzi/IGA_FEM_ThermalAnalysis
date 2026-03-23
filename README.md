@@ -6,9 +6,9 @@ This repository contains the MATLAB code developed for the publication:
 
 **Authors:** Dr. Faouzi Rahmouni, Prof. Amar Khennane
 
-<img width="267" height="239" alt="image" src="https://github.com/user-attachments/assets/7f659d0a-0299-4175-b1b6-7b3f6405a168" />
-<img width="240" height="209" alt="image" src="https://github.com/user-attachments/assets/f51b5e6b-e45a-4230-86ba-51e7a1d9e8b5" />
-<img width="284" height="239" alt="image" src="https://github.com/user-attachments/assets/496617a7-b30b-43eb-8ab8-4c292e5d526e" />
+<img width="254" height="204" alt="image" src="https://github.com/user-attachments/assets/9c629eae-1535-4c25-8fd2-4e75f87e8baa" />
+<img width="246" height="198" alt="image" src="https://github.com/user-attachments/assets/06b9df73-75d5-4e75-a416-9d60248c6881" />
+<img width="303" height="223" alt="image" src="https://github.com/user-attachments/assets/8bab69e1-2159-4fac-ab2b-776995a7a439" />
 <img width="558" height="240" alt="image" src="https://github.com/user-attachments/assets/7e09f199-0a15-4122-83b9-cf14666443be" />
 <img width="218" height="234" alt="image" src="https://github.com/user-attachments/assets/22ad4c49-16ca-428b-93c7-e1ae897b4d35" />
 <img width="674" height="363" alt="image" src="https://github.com/user-attachments/assets/44c2fd9f-4054-48f4-8697-da8db3f43e56" />
