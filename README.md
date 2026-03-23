@@ -40,9 +40,9 @@ Run the MATLAB scripts in the relevant folder depending on the method and case s
 ## Purpose
 
 This repository is provided to:
-- support reproducibility of the publication
-- compare FEM and multi-formulation IGA
-- provide benchmark MATLAB examples for thermal analysis in composite materials
+- Support reproducibility of the publication
+- Compare FEM and multi-formulation IGA
+- Provide benchmark MATLAB examples for thermal analysis in composite materials
 
 ## Citation
 
