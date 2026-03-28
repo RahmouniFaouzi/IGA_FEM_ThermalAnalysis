@@ -1,4 +1,4 @@
-clc; clear; close all
+clc, clear, close all
 addpath(genpath(fullfile(fileparts(mfilename('fullpath')),'Functions')))
 
 %% ============================================================
