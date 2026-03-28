@@ -14,7 +14,7 @@ c = [x(3)-x(2);             % c1
      x(1)-x(3);             % c2
      x(2)-x(1)];            % c3
 
-% Strain�displacement (temperature gradient) matrix
+% Strain displacement (temperature gradient) matrix
 % Relates nodal temperatures to temperature gradients
 B = 1/(2*A)*[b';            % dN/dx terms
              c'];           % dN/dy terms
