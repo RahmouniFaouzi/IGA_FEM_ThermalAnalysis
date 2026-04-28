@@ -2,7 +2,7 @@
 
 This repository contains the MATLAB code developed for the publication:
 
-**A Comparative Computational Study of Steady-State and Transient Heat Transfer in Composite Materials under Multiple Boundary Conditions using FEM, Multi-Formulation Isogeometric Analysis, and AI-Driven Symbolic Regression**
+**Comparative Study of Steady-State and Transient Heat Transfer in Composites Using FEM, Isogeometric Analysis, and AI Symbolic Regression**
 
 **Authors:** Dr. Faouzi Rahmouni, Prof. Amar Khennane
 
