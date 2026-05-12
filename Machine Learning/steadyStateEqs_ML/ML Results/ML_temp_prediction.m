@@ -1,6 +1,6 @@
 function [T, T_norm, vars] = ML_temp_prediction(x, y, L, kx, ky, R, To, Th)
 % -----------------------------------------------------------------
-% ML Predict temperature at (x,y) using the ML REGRESSION equation.
+% Physics-Informed Machine Learning Prediction of Temperature at (x,y).
 % Physics assumptions:
 % --------------------
 %  * Steady-state only (no transient)
