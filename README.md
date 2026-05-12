@@ -11,7 +11,6 @@ This repository contains the MATLAB code developed for the publication:
 <img width="280" height="204" alt="image" src="https://github.com/user-attachments/assets/e37be941-62e7-4a67-bf37-8d7685dfec66" />
 <img width="280" height="204" alt="image" src="https://github.com/user-attachments/assets/5debf457-9241-4567-8018-3b41514601f9" />
 <img width="240" height="190" alt="image" src="https://github.com/user-attachments/assets/53d24d8f-059d-40f0-88dd-64f030d79e15" />
-<img width="240" height="204" alt="image" src="https://github.com/user-attachments/assets/22ad4c49-16ca-428b-93c7-e1ae897b4d35" />
 <img width="674" height="363" alt="image" src="https://github.com/user-attachments/assets/44c2fd9f-4054-48f4-8697-da8db3f43e56" />
 
 ## Summary
