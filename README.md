@@ -2,15 +2,16 @@
 
 This repository contains the MATLAB code developed for the publication:
 
-**Comparative Study of Steady-State and Transient Heat Transfer in Composites Using FEM, Isogeometric Analysis, and AI Symbolic Regression**
+**Comparative Study of Steady-State and Transient Heat Transfer in Composites Using FEM, Isogeometric Analysis, and Physics-Informed Machine Learning Correlation**
 
 **Authors:** Dr. Faouzi Rahmouni, Prof. Amar Khennane
 
-<img width="254" height="204" alt="image" src="https://github.com/user-attachments/assets/9c629eae-1535-4c25-8fd2-4e75f87e8baa" />
-<img width="246" height="198" alt="image" src="https://github.com/user-attachments/assets/06b9df73-75d5-4e75-a416-9d60248c6881" />
-<img width="303" height="223" alt="image" src="https://github.com/user-attachments/assets/8bab69e1-2159-4fac-ab2b-776995a7a439" />
-<img width="558" height="240" alt="image" src="https://github.com/user-attachments/assets/7e09f199-0a15-4122-83b9-cf14666443be" />
-<img width="218" height="234" alt="image" src="https://github.com/user-attachments/assets/22ad4c49-16ca-428b-93c7-e1ae897b4d35" />
+<img width="280" height="204" alt="image" src="https://github.com/user-attachments/assets/435dd904-8b29-4fc7-9737-0e6b2af5dbb0" />
+<img width="280" height="204" alt="image" src="https://github.com/user-attachments/assets/d0d6f266-2ea4-45fe-85e8-b815cb61952f" />
+<img width="280" height="204" alt="image" src="https://github.com/user-attachments/assets/e37be941-62e7-4a67-bf37-8d7685dfec66" />
+<img width="280" height="204" alt="image" src="https://github.com/user-attachments/assets/5debf457-9241-4567-8018-3b41514601f9" />
+<img width="240" height="190" alt="image" src="https://github.com/user-attachments/assets/53d24d8f-059d-40f0-88dd-64f030d79e15" />
+<img width="240" height="204" alt="image" src="https://github.com/user-attachments/assets/22ad4c49-16ca-428b-93c7-e1ae897b4d35" />
 <img width="674" height="363" alt="image" src="https://github.com/user-attachments/assets/44c2fd9f-4054-48f4-8697-da8db3f43e56" />
 
 ## Summary
@@ -21,7 +22,7 @@ This code supports the publication and reproduces the main numerical results for
   - NURBS
   - HB-Splines
   - Graded-NURBS
-- **AI-driven symbolic regression**
+- **Physics-Informed Machine Learning Correlation**
 
 ## Main Applications
 - Isotropic, orthotropic, and laminated MMC plates
@@ -35,7 +36,7 @@ Run the MATLAB scripts in the relevant folder depending on the method and case s
 ### Examples
 - `FEM/` for finite element benchmarks
 - `IGA/` for NURBS, HB-Spline, and holed-plate models
-- `Machine Learning/` for symbolic regression models
+- `Machine Learning/` for Physics-Informed Machine Learning Correlation
 
 ## Purpose
 
