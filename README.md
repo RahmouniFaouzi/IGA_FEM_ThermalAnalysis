@@ -2,7 +2,8 @@
 
 This repository contains the MATLAB code developed for the publication:
 
-**Comparative Study of Steady-State and Transient Heat Transfer in Composites Using FEM, Isogeometric Analysis, and Physics-Informed Machine Learning Correlation**
+**Multi-Formulation Isogeometric Analysis with PhysicsInformed Machine Learning Surrogate for Steady-State and
+Transient Heat Conduction in Composite Plates**
 
 **Authors:** Dr. Faouzi Rahmouni, Prof. Amar Khennane
 
